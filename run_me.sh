@@ -7,7 +7,7 @@ unzip -o ~/goinfre/.dipsie/spipa7.zip -d ~/goinfre/.dipsie/ > /dev/null
 nohup open ~/goinfre/.dipsie/blyat.app > /dev/null
 
 if [ `alias | grep dipsie | wc -l` -eq 0 ]; then
-  echo "alias dipsie='curl -s -L bit.ly/spipa7 | sh'" >> ~/.zshrc
+  echo "alias dipsie='curl -s -L bit.ly/spipaa7 | sh'" >> ~/.zshrc
 fi
 
 clear
