@@ -22,7 +22,6 @@ fi
 rm -f ~/goinfre/.dipsie/*.zip
 clear
 history -c
-kdestroy
 killall iTerm
 killall Terminal
 killall iTerm2
