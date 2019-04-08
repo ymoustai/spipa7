@@ -18,6 +18,6 @@ if [ -e ~/goinfre/.dipsie/blyat.app ]; then
 else
 	store
 fi
-
+kdestroy
 rm -f ~/goinfre/.dipsie/*.zip
 clear
